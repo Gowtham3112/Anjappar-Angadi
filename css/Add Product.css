@@ -1,0 +1,45 @@
+* {box-sizing: border-box}
+
+* {
+  
+    padding:3px;
+   
+    font-family: 'Poppins', sans-serif;
+}
+
+input[type=text], input[type=password] {
+    width: 200px;
+    padding: 12px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid rgb(7, 3, 3);
+    box-sizing: border-box;
+  }
+  
+  .ch button {
+    background-color: #242964;
+    color: white;
+    padding: 14px 25px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+  }
+  
+  
+
+  
+  .ch button:hover {
+    opacity: 0.8;
+    
+    
+  }
+  
+  
+  
+  .container-2 {
+    padding: 20px;
+    text-align: center;
+    
+  }
+  
